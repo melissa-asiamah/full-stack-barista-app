@@ -1,0 +1,5 @@
+As the input increases, time to run the algorithm stays constant.
+Example:
+const firstElemEven = (array) => {
+ return array[0] %2 === 0 ? true : false;
+}

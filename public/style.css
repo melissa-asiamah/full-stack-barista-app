@@ -1,0 +1,16 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lavender;
+  font-family: 'Livvic', sans-serif!important;
+}
+img{
+  height: 200px;
+}
+
+.jumbotron {
+  background-image: url(img/README.jpeg);
+  height: 418px;
+  color: white;
+  background-size: cover;
+}
