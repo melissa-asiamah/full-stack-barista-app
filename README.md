@@ -1,8 +1,8 @@
 # Project
 This is a full stack app for barista cafe workers where they can enter in a customer's name and order to a queue, check off a completed order while having it called out using Javascript's built in text-to-speech property and lastly clear all completed orders.
 
-![alternativetext](landing-page.png)
-![alternativetext](profile-page.png)
+![alternativetext](https://drive.google.com/file/d/1_Z6zeyUXraRXn5u2ABIp--ZRfQcSvHPW)
+![alternativetext](https://drive.google.com/file/d/1h-7g9o2d6FWDs1DBGmpZAUADv3E2iEVL)
 
 ## How It's Made:
 
